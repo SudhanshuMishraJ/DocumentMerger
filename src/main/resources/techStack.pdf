@@ -1,0 +1,10 @@
+Springboot 3.3.0
+Java 17
+Kafka
+PDFBox/OpenPdf 
+might use mongoDB to create a collection for errors.
+might use kafka to publish the response for user .
+postman for API testing 
+REST 
+Maven 
+Lombok

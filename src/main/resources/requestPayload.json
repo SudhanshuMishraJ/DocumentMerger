@@ -1,0 +1,19 @@
+{
+	"documentCount" : "3", 
+	"baseFileLocation": "baseFileLocation",
+	"docType": "pdf",
+	"saveAsFileName": "MergedFile.pdf",
+	"saveResultLocation": "saveResultLocation",
+	"appendFromFileLocation":{
+		"appendFiles":[
+			{
+				"secondaryFileLocation":"secondaryFileLocation",
+				"sequenceNumber": "1"
+			},
+			{
+				"secondaryFileLocation": "secondaryFileLocation",
+				"sequenceNumber": "2"
+			}
+		]
+	}
+}
